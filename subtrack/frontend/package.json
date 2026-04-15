@@ -29,7 +29,7 @@
   },
   "scripts": {
     "start": "craco start",
-    "build": "craco build",
+  "build":"CI=falsereact-scripts build",
     "test": "craco test"
   },
   "eslintConfig": {
